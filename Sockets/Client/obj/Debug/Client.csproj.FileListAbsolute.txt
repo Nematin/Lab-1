@@ -1,0 +1,7 @@
+G:\Проги\C#\Lab1_v3\Sockets\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\Проги\C#\Lab1_v3\Sockets\Client\bin\Debug\Client.exe.config
+G:\Проги\C#\Lab1_v3\Sockets\Client\bin\Debug\Client.exe
+G:\Проги\C#\Lab1_v3\Sockets\Client\bin\Debug\Client.pdb
+G:\Проги\C#\Lab1_v3\Sockets\Client\obj\Debug\Client.exe
+G:\Проги\C#\Lab1_v3\Sockets\Client\obj\Debug\Client.pdb
+G:\Проги\C#\Lab1_v3\Sockets\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

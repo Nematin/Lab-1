@@ -1,0 +1,20 @@
+C:\Users\aptik\OneDrive\Documents\Visual Studio 2017\Projects\Server_v1\Server_v1\bin\Release\Server_v1.exe.config
+C:\Users\aptik\OneDrive\Documents\Visual Studio 2017\Projects\Server_v1\Server_v1\bin\Release\Server_v1.exe
+C:\Users\aptik\OneDrive\Documents\Visual Studio 2017\Projects\Server_v1\Server_v1\bin\Release\Server_v1.pdb
+C:\Users\aptik\OneDrive\Documents\Visual Studio 2017\Projects\Server_v1\Server_v1\obj\Release\Server_v1.csproj.CoreCompileInputs.cache
+C:\Users\aptik\OneDrive\Documents\Visual Studio 2017\Projects\Server_v1\Server_v1\obj\Release\Server_v1.exe
+C:\Users\aptik\OneDrive\Documents\Visual Studio 2017\Projects\Server_v1\Server_v1\obj\Release\Server_v1.pdb
+F:\C#\New\Server_v1\Server_v1\bin\Release\Server_v1.exe.config
+F:\C#\New\Server_v1\Server_v1\bin\Release\Server_v1.exe
+F:\C#\New\Server_v1\Server_v1\bin\Release\Server_v1.pdb
+F:\C#\New\Server_v1\Server_v1\obj\Release\Server_v1.csproj.CoreCompileInputs.cache
+F:\C#\New\Server_v1\Server_v1\obj\Release\Server_v1.exe
+F:\C#\New\Server_v1\Server_v1\obj\Release\Server_v1.pdb
+F:\C#\New\Server_v1\Server_v1\obj\Release\Server_v1.csprojResolveAssemblyReference.cache
+C:\Users\Support\Downloads\Lab1_Sharp\New\Server_v1\Server_v1\bin\Release\Server_v1.exe.config
+C:\Users\Support\Downloads\Lab1_Sharp\New\Server_v1\Server_v1\bin\Release\Server_v1.exe
+C:\Users\Support\Downloads\Lab1_Sharp\New\Server_v1\Server_v1\bin\Release\Server_v1.pdb
+C:\Users\Support\Downloads\Lab1_Sharp\New\Server_v1\Server_v1\obj\Release\Server_v1.csprojResolveAssemblyReference.cache
+C:\Users\Support\Downloads\Lab1_Sharp\New\Server_v1\Server_v1\obj\Release\Server_v1.csproj.CoreCompileInputs.cache
+C:\Users\Support\Downloads\Lab1_Sharp\New\Server_v1\Server_v1\obj\Release\Server_v1.exe
+C:\Users\Support\Downloads\Lab1_Sharp\New\Server_v1\Server_v1\obj\Release\Server_v1.pdb
